@@ -1,0 +1,39 @@
+#clock{
+    width:60%;
+    font-size:300%;
+    height:200px;
+    margin-top:150px;
+}
+#map{
+    display: flex;
+    flex-direction: column;
+    margin-top:0;
+}
+#social_media{
+    margin-top :-220px;;
+    height:150px;
+    width:100%;
+    line-height:50px;
+
+}
+#google{
+    height:500px;
+    width:950px;
+}
+#icons{
+    width:190px;
+    font-size:12px;
+}
+#tim{
+    width:550px;
+    height:80px;
+    font-size:x-large;
+    line-height:35px;
+    margin-right:210px;
+    margin-top:20px;
+}
+#name{
+    position: absolute;
+    top:3px;
+    font-size:25px;
+}
